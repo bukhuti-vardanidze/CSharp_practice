@@ -11,11 +11,11 @@
             Console.WriteLine("Enter First number : ");
             var num1 = Convert.ToDecimal(Console.ReadLine());
 
-            Console.WriteLine("Enter  second Number : ");
+            Console.WriteLine("Enter second Number : ");
             var num2 = Convert.ToDecimal(Console.ReadLine());
 
-            Console.WriteLine("Choose Your Operation : ");
-            Console.WriteLine(" + OR - OR / OR * OR % ");
+            Console.WriteLine("Choose  Operation : ");
+            Console.WriteLine(" + OR - OR / OR * ");
 
 
             Console.WriteLine("Enter One of them : ");
@@ -44,7 +44,7 @@
 
             }
 
-            Console.WriteLine("Your Answer is" + result);
+            Console.WriteLine("Your Answer is " + result);
 
         }
     }
