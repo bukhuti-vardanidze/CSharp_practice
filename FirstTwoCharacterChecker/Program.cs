@@ -12,7 +12,7 @@ public class characterChecker
     public static bool checker(string text)
     {
         var result = false;
-
+        
        if (text.StartsWith("c#"))
         {
             result = true;
