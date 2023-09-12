@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_practice_1", "C#_practice_1\C#_practice_1.csproj", "{47AC4ECA-F068-4655-8663-302CC3694967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#_practice_1", "C#_practice_1\C#_practice_1.csproj", "{47AC4ECA-F068-4655-8663-302CC3694967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication_Table", "Multiplication_Table\Multiplication_Table.csproj", "{15A3D055-840E-4C7C-B81B-A1C22E35FD0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{47AC4ECA-F068-4655-8663-302CC3694967}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AC4ECA-F068-4655-8663-302CC3694967}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AC4ECA-F068-4655-8663-302CC3694967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A3D055-840E-4C7C-B81B-A1C22E35FD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A3D055-840E-4C7C-B81B-A1C22E35FD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A3D055-840E-4C7C-B81B-A1C22E35FD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A3D055-840E-4C7C-B81B-A1C22E35FD0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
