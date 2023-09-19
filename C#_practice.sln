@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvOdMxMnArray", "EvOdMxMnAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCounter", "SpaceCounter\SpaceCounter.csproj", "{E5EE5F70-9D93-48DD-B3B1-640E0F828BC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{EB58513C-9CBC-4684-B3C9-49081590C728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{E5EE5F70-9D93-48DD-B3B1-640E0F828BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5EE5F70-9D93-48DD-B3B1-640E0F828BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5EE5F70-9D93-48DD-B3B1-640E0F828BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB58513C-9CBC-4684-B3C9-49081590C728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB58513C-9CBC-4684-B3C9-49081590C728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB58513C-9CBC-4684-B3C9-49081590C728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB58513C-9CBC-4684-B3C9-49081590C728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
