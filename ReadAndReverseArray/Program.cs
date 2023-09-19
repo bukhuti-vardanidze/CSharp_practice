@@ -22,15 +22,14 @@ public class Arr
 
         foreach(int n in numberArray)
         {
-            Console.Write($"Array - {n} ");
+            Console.WriteLine($"Array - {n} ");
         }
 
         for (int j = num - 1; j >= 0; j--)
         {
             Console.WriteLine($"Reverse Array - {j} ");
         }
-        numberArray.Reverse();
-        Console.WriteLine(numberArray);
+       
 
     }
 }

@@ -21,7 +21,7 @@ public class array
         
         var max = numArray.Max();
         Console.WriteLine($"Max Number is - {max}");
-        var min = numArray.Count();
+        var min = numArray.Min();
         Console.WriteLine($"Min Number is - {min}");
     }
 }

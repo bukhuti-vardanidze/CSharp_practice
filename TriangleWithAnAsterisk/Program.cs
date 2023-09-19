@@ -5,7 +5,7 @@ public class Program
     //2 - Write a program in C# Sharp to display a pattern like a right angle triangle with a number
     public static void Main(string[] args)
     {
-       // asterisk();
+        asterisk();
         number();
     }
 
