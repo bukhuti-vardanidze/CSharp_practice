@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FndNumWithLinq", "test\FndN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterFinderLinq", "CharacterFinderLinq\CharacterFinderLinq.csproj", "{DA383186-FC10-48E7-BA53-AC167C65E3FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeUseStruct", "EmployeeUseStruct\EmployeeUseStruct.csproj", "{B243BC32-C09C-48D8-9797-C33979FF5D00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B243BC32-C09C-48D8-9797-C33979FF5D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B243BC32-C09C-48D8-9797-C33979FF5D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B243BC32-C09C-48D8-9797-C33979FF5D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B243BC32-C09C-48D8-9797-C33979FF5D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
