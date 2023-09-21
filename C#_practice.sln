@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceCounter", "SpaceCounte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{EB58513C-9CBC-4684-B3C9-49081590C728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidatorWithREGEX", "PasswordValidatorWithREGEX\PasswordValidatorWithREGEX.csproj", "{1FC2419B-EB0F-4242-B8AF-0F56DD43E90E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordValidatorWithREGEX", "PasswordValidatorWithREGEX\PasswordValidatorWithREGEX.csproj", "{1FC2419B-EB0F-4242-B8AF-0F56DD43E90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FndNumWithLinq", "test\FndNumWithLinq.csproj", "{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{1FC2419B-EB0F-4242-B8AF-0F56DD43E90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FC2419B-EB0F-4242-B8AF-0F56DD43E90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FC2419B-EB0F-4242-B8AF-0F56DD43E90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
