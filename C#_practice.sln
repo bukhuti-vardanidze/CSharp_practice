@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordValidatorWithREGEX"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FndNumWithLinq", "test\FndNumWithLinq.csproj", "{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterFinderLinq", "CharacterFinderLinq\CharacterFinderLinq.csproj", "{DA383186-FC10-48E7-BA53-AC167C65E3FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A81EDE-FC17-4EEF-9ED0-6BF91C162FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA383186-FC10-48E7-BA53-AC167C65E3FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,7 @@ class findNum
         }
         Console.WriteLine("\n");
         var query2 = from numb in numbers
-                     where (numb / 2) != 0
+                     where (numb % 2) != 0
                      select numb;
         foreach(var numb in query2)
         {
