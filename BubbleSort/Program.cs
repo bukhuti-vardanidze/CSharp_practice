@@ -11,10 +11,11 @@ class SortAlg
     {
         Random rand = new Random(100);
 
-        Collection numbers = new Collection() ;
+        int[] numbers = new int[10];
         for(int i =0; i < 10; i++)
         {
-            numbers.Add((int)(rand.NextDouble()*100));
+            
+            numbers[i] = (int)(rand.NextDouble() * 100);
         }
         Console.WriteLine("Original numbers:");
         foreach (var num in numbers)
@@ -34,21 +35,21 @@ class SortAlg
 
     }
 
-    public static void BubbleSort(Collection numbs)
+    public static void BubbleSort(int[] numbs)
     {
+        int i, j;
+        var count = numbs.Length;
 
-        var count = numbs.Count;
-
-        for (int i = 0; i < count - 1; i++)
+        for ( i = 0; i < count - 1; i++)
         {
-            for (int j = 0; j < count - i - 1; j++)
+            for ( j = 0; j < count - i - 1; j++)
             {
                 if ((int)numbs[j] > (int)numbs[j + 1])
                 {
-                    // Swap numbs[j] and numbs[j + 1]
+                    
                     var temp = numbs[j];
-                    //numbs[j] = numbs[j + 1];
-                    //numbs[j + 1] = temp;
+                    numbs[j] = numbs[j + 1];
+                    numbs[j + 1] = temp;
                 }
             }
         }
