@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterFinderLinq", "Char
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeUseStruct", "EmployeeUseStruct\EmployeeUseStruct.csproj", "{B243BC32-C09C-48D8-9797-C33979FF5D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekDayFinder", "WeekDayFinder\WeekDayFinder.csproj", "{A6A17A36-8D74-41E4-BDF8-5B272A829560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeekDayFinder", "WeekDayFinder\WeekDayFinder.csproj", "{A6A17A36-8D74-41E4-BDF8-5B272A829560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTextFile", "CreateTextFile\CreateTextFile.csproj", "{494B99D8-0B84-4BD3-9BF0-5CD500EF77E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{A6A17A36-8D74-41E4-BDF8-5B272A829560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6A17A36-8D74-41E4-BDF8-5B272A829560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6A17A36-8D74-41E4-BDF8-5B272A829560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494B99D8-0B84-4BD3-9BF0-5CD500EF77E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494B99D8-0B84-4BD3-9BF0-5CD500EF77E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494B99D8-0B84-4BD3-9BF0-5CD500EF77E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494B99D8-0B84-4BD3-9BF0-5CD500EF77E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
