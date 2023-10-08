@@ -7,20 +7,25 @@ class Program
     //and returns an ordered array containing the indices of all capital letters in the string.
     static void Main(string[] args)
     {
-         txt("HgsA");
-      
+        IndexOfCapitals("HgsA");
+        IndexOfCapitals("eQuINoX");
+        IndexOfCapitals("determine"); ;
+
+
+
     }
 
-    public static void txt(string text)
+    public static void IndexOfCapitals(string text)
     {
-        char c;
+        Console.WriteLine("text is " + text);
         char[] chars = text.ToCharArray();
         for(int i = 0; i<text.Length; i++)
         {
             if (char.IsUpper(chars[i]))
             {
+    
                 Console.WriteLine($"Upper index is - {i}, character is {chars[i]}");
-            }
+            } 
         }
 
         
