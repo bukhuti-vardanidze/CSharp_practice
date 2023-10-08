@@ -1,7 +1,7 @@
 ﻿namespace sort;
 class Program
 {
-    static void Main(string[] args)
+   static void Main(string[] args)
     {
         var rand = new Random(250);
         int[] numbers = new int[8];
@@ -31,7 +31,7 @@ class Program
         for (int i = 0; i < count - 1; i++)
         {
             var minIndex = i;
-            for (int j = i + 1; j < count; j++) // Use j as the loop variable
+            for (int j = i + 1; j < count; j++)
             {
                 if (nums[j] < nums[minIndex])
                 {
