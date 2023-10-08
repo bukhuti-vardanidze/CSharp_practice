@@ -13,12 +13,7 @@ class Program
 
    public static string ReverseCase(string text)
     {
-        //string[] txt = new string[text.Length];
-
-        //for(int i = 0; i < txt.Length; i++)
-        //{
-        //    if 
-        //}
+        
 
         char[] chars = text.ToCharArray();
         for(int i = 0; i < chars.Length; i++)

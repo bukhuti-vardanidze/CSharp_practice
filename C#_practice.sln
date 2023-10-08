@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexOfAllCapitalLetters", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheCase", "ReverseTheCase\ReverseTheCase.csproj", "{9B674766-E168-416D-B462-C371CB9E39E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCollatzConjecture", "TheCollatzConjecture\TheCollatzConjecture.csproj", "{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,10 @@ Global
 		{9B674766-E168-416D-B462-C371CB9E39E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B674766-E168-416D-B462-C371CB9E39E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B674766-E168-416D-B462-C371CB9E39E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
