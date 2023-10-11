@@ -61,9 +61,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOfMultiples", "ArrayOf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexOfAllCapitalLetters", "IndexOfAllCapitalLetters\IndexOfAllCapitalLetters.csproj", "{28B56F5E-5C5F-40D0-ACAE-D8F19297D2FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheCase", "ReverseTheCase\ReverseTheCase.csproj", "{9B674766-E168-416D-B462-C371CB9E39E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseTheCase", "ReverseTheCase\ReverseTheCase.csproj", "{9B674766-E168-416D-B462-C371CB9E39E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCollatzConjecture", "TheCollatzConjecture\TheCollatzConjecture.csproj", "{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheCollatzConjecture", "TheCollatzConjecture\TheCollatzConjecture.csproj", "{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDofTwoNumbers", "GCDofTwoNumbers\GCDofTwoNumbers.csproj", "{39280777-5781-4ED8-A9A4-31C15BA99F20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +193,10 @@ Global
 		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19EFB44E-A757-4FEB-AC1B-4B1648ACDBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
