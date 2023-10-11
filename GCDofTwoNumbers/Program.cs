@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int gcd =  GCDofTwoNumbers(8, 0);
+        int gcd =  GCDofTwoNumbers(8, 16);
         Console.WriteLine(  gcd);
     }
 
@@ -16,8 +16,6 @@ class Program
             a = temp;
         }
         return a;
-
-
     }
 
 

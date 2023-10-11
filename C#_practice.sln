@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheCollatzConjecture", "The
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDofTwoNumbers", "GCDofTwoNumbers\GCDofTwoNumbers.csproj", "{39280777-5781-4ED8-A9A4-31C15BA99F20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnTheMiddleCharacter", "ReturnTheMiddleCharacter\ReturnTheMiddleCharacter.csproj", "{B9208F09-62AF-4FFF-940D-E195F58CA03C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39280777-5781-4ED8-A9A4-31C15BA99F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9208F09-62AF-4FFF-940D-E195F58CA03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9208F09-62AF-4FFF-940D-E195F58CA03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9208F09-62AF-4FFF-940D-E195F58CA03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9208F09-62AF-4FFF-940D-E195F58CA03C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
