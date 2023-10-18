@@ -69,11 +69,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCDofTwoNumbers", "GCDofTwo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReturnTheMiddleCharacter", "ReturnTheMiddleCharacter\ReturnTheMiddleCharacter.csproj", "{B9208F09-62AF-4FFF-940D-E195F58CA03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveCount_NegativeSum", "PositiveCount_NegativeSum\PositiveCount_NegativeSum.csproj", "{E6FC91F3-81AD-4FFC-956E-E827F94D1269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositiveCount_NegativeSum", "PositiveCount_NegativeSum\PositiveCount_NegativeSum.csproj", "{E6FC91F3-81AD-4FFC-956E-E827F94D1269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterOutStringsFromAnArray", "FilterOutStringsFromAnArray\FilterOutStringsFromAnArray.csproj", "{EA11379C-5D03-495B-98A0-0AF899BF9E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilterOutStringsFromAnArray", "FilterOutStringsFromAnArray\FilterOutStringsFromAnArray.csproj", "{EA11379C-5D03-495B-98A0-0AF899BF9E00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quiz", "quiz\quiz.csproj", "{2CB69AEA-EDD6-4974-B5BA-7BDF7F581189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quiz", "quiz\quiz.csproj", "{2CB69AEA-EDD6-4974-B5BA-7BDF7F581189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingWord", "FindingWord\FindingWord.csproj", "{FB8D3CD8-0A6F-4FA3-81D5-7FFB9789247E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,6 +223,10 @@ Global
 		{2CB69AEA-EDD6-4974-B5BA-7BDF7F581189}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB69AEA-EDD6-4974-B5BA-7BDF7F581189}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB69AEA-EDD6-4974-B5BA-7BDF7F581189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8D3CD8-0A6F-4FA3-81D5-7FFB9789247E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8D3CD8-0A6F-4FA3-81D5-7FFB9789247E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8D3CD8-0A6F-4FA3-81D5-7FFB9789247E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8D3CD8-0A6F-4FA3-81D5-7FFB9789247E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
